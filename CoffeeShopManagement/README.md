@@ -1,5 +1,10 @@
 # Coffee Sales Management
 
+<p align="center">
+  <a href="https://github.com/GokhanKarakusNet/JavaCampHomeworks/tree/master/CoffeeShopManagement">
+    <img src="https://github.com/GokhanKarakusNet/JavaCampHomeworks/blob/master/CoffeeShopManagement/senaryo.jpg?raw=true">
+  </a>
+ <p align="center">
 Senaryo gereği Starbucks ve Nero kahve firmaları bizden bir backend projesi istemektedir. İstenilenler şu şekildedir;
 -  Sisteme kullanıcı kaydı yapılacak ve bilgi verilecek
 -  Nero firması herhangi bir kullanıcı doğrulaması talep etmiyor.
